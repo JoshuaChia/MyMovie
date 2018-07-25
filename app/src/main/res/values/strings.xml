@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="yr">Year</string>
+    <string name="gr">Genre</string>
+</resources>
